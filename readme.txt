@@ -17,3 +17,6 @@
 ## Additional Notes
 - Ensure Python 3.x is installed.
 - Make sure to handle any errors that may occur during execution.
+
+
+All conversations are stored in a Pinecones Vector Store.
